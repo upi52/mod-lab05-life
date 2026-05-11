@@ -1,0 +1,8 @@
+{
+  "Width": 40,
+  "Height": 20,
+  "Density": 0.3,
+  "Delay": 100,
+  "MaxSteps": 1000,
+  "StableWindow": 10
+}
